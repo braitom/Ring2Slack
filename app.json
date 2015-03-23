@@ -1,0 +1,7 @@
+{
+  "name": "Ring2Slack",
+  "description": "This application aims to post a picture to Slack.",
+  "repository": "https://github.com/heroku/button-sample",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "slack"]
+}
