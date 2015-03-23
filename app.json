@@ -3,5 +3,19 @@
   "description": "This application aims to post a picture to Slack.",
   "repository": "https://github.com/heroku/button-sample",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "slack"]
+  "keywords": ["node", "express", "slack"],
+  "env": {
+  	"SLACK_TOKEN": {
+  		"description": "your Slack token key",
+  		"value": ""
+  	},
+  	"IMAGE_NAME": {
+  		"description": "picture word you like",
+  		"value": ""
+  	},
+  	"CHANNEL": {
+  		"description": "your slack channel name",
+  		"value": ""
+  	}
+  }
 }
