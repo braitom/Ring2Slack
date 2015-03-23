@@ -20,8 +20,8 @@ This application has been made to work with heroku.
 6. `git push heroku master`
 
 
-Alternatively, you can deploy your own copy of the app using this button:
 
+Alternatively, you can deploy the app using this button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
