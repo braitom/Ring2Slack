@@ -10,8 +10,9 @@ This application has been made to work with heroku.
 3. `heroku login`
 4. `heroku create your-app-name`
 5. To set Heroku config to use the following.
+
    `heroku config:set SLACK_TOKEN='your-slack-token`
-   'heroku config:set IMAGE_NAME='image-keyword'
+   `heroku config:set IMAGE_NAME='image-keyword`
    `heroku config:set CHANNEL='your-slack-channel-name`
 6. `git push heroku master`
 
