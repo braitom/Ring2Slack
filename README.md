@@ -5,7 +5,7 @@ This application aims to post a picture to Slack. I have assumed a mainly posts 
 
 This application has been made to work with heroku.
 
-1. Clone this repo locally. `git clone https://github.com/braitom/Flask-yo.git`
+1. Clone this repo locally. `git clone https://github.com/braitom/Ring2Slack.git`
 2. `cd Ring2Slack`
 3. `heroku login`
 4. `heroku create your-app-name`
