@@ -25,7 +25,7 @@ Alternatively, you can deploy the app using this button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Useing
+## Using
 * GET `/image`  
 You can post to random images that you specify to Slack.
 
